@@ -1,2 +1,2 @@
 # linktree
-My own Linktree!
+My own Linktree with my important links!
