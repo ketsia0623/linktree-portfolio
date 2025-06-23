@@ -1,2 +1,2 @@
-# linktree
-My own Linktree with my important links!
+## Linktree
+My own Linktree portfolio with my important links!
